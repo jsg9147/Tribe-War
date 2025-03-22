@@ -1,0 +1,100 @@
+﻿Language,Index,Content,Tag
+English,1,Create Room,CreateRoom
+English,2,Join Room,JoinRoom
+English,3,Join Code,JoinCode
+English,4,Quick Match,QuickMatch
+English,5,Exit,Exit
+English,6,Ready,Ready
+English,7,Send,Send
+English,8,Player,Player
+English,9,Join Code Input,JoinCodeInput
+English,10,Chat Input,ChatInput
+English,11,Invite Code,InviteCode
+English,12,Search for a player,Matching
+English,13,vs CPU,SinglePlay
+Korea,1,방 만들기,CreateRoom
+Korea,2,방 참여하기,JoinRoom
+Korea,3,참여코드,JoinCode
+Korea,4,빠른 매칭,QuickMatch
+Korea,5,나가기,Exit
+Korea,6,준비,Ready
+Korea,7,보내기,Send
+Korea,8,플레이어,Player
+Korea,9,참여 코드 입력,JoinCodeInput
+Korea,10,채팅 입력,ChatInput
+Korea,11,초대 코드,InviteCode
+Korea,12,상대를 찾고 있습니다,Matching
+Korea,13,vs 컴퓨터,SinglePlay
+Korea,14,덱이 존재하지 않으므로 덱 편집기로 이동합니다.,NoExsitDeck
+English,14,"The deck does not exist, so go to the deck editor.",NoExsitDeck
+Korea,15,덱 편집 방법,EditInfoTitle
+English,15,How to edit deck?,EditInfoTitle
+Korea,16,인게임 화면 구성,IngameExplanationTitle
+English,16,Ingame Screen Explanation,IngameExplanationTitle
+Korea,17,카드 정보 보는법,CardInfoTitle
+English,17,Card Information,CardInfoTitle
+Korea,18,"1. 카드는 우클릭으로 덱에
+추가하거나 뺄 수 있습니다.",CardInfoText1
+English,18,1. You can right-click a card to add or remove it,CardInfoText1
+Korea,19,"2. 같은 카드는 4장까지 투입 
+가능합니다.",CardInfoText2
+English,19,2. You can add up to four cards of the same type,CardInfoText2
+English,20,1. Turn Information,IngameExplanation1
+English,21,2. Your hands,IngameExplanation2
+English,22,3. Enermy Hands,IngameExplanation3
+English,23,4. The remaining cards,IngameExplanation4
+English,24,5. Graveyard card list,IngameExplanation5
+English,25,6. Turn end,IngameExplanation6
+English,26,7. Field,IngameExplanation7
+Korea,20,1. 턴 정보,IngameExplanation1
+Korea,21,2. 내 손패,IngameExplanation2
+Korea,22,3. 상대 손패,IngameExplanation3
+Korea,23,4. 남은 카드 확인 버튼,IngameExplanation4
+Korea,24,5. 묘지의 카드 리스트 확인,IngameExplanation5
+Korea,25,6. 턴 종료 버튼,IngameExplanation6
+Korea,26,7. 필드,IngameExplanation7
+English,27,"No deck, go to the Edit Deck screen.",NoExistDeck
+Korea,28,"기본 덱이 없습니다. 
+덱 편집 화면으로 이동합니다.",NoExistDeck
+English,29,Move direction,CardInfoMove
+English,30,Card name,CardInfoName
+English,31,Level,CardInfoLevel
+English,32,Attack type,CardInfoAttackType
+English,33,Effect,CardInfoEffect
+English,34,Move straight,MoveStraight
+English,35,Move Diagonal,MoveDiagonal
+English,36,Straight + Diagonal,Move8Direction
+Korea,29,이동 방향,CardInfoMove
+Korea,30,카드 이름,CardInfoName
+Korea,31,레벨,CardInfoLevel
+Korea,32,공격 타입,CardInfoAttackType
+Korea,33,효과,CardInfoEffect
+Korea,34,직선 이동,MoveStraight
+Korea,35,대각선 이동,MoveDiagonal
+Korea,36,직선 + 대각선 이동,Move8Direction
+English,37,Save,Save
+English,38,Card Search,CardSearchTitle
+English,39,Search,Search
+English,40,Set represent card,RepresentCard
+English,41,Please enter a search term,SearchInput
+English,42,Name,CategoryName
+English,43,Level,CategoryLevel
+English,44,Tribe,CategoryTribe
+Korea,37,저장,Save
+Korea,38,카드 검색,CardSearchTitle
+Korea,39,검색,Search
+Korea,40,대표 카드 설정,RepresentCard
+Korea,41,검색어를 입력하세요,SearchInput
+Korea,42,이름,CategoryName
+Korea,43,레벨,CategoryLevel
+Korea,44,종족,CategoryTribe
+Korea,45,메인 덱 :,MainDeck
+Korea,46,"[카드 추가, 제거 : 우클릭], [카드 최대 추가 :  SHIFT + 우클릭]",DeckEditTooltip
+English,45,Main Deck : ,MainDeck
+English,46,"[Card add, remove : Right click], [Card add max :  SHIFT + Right click]",DeckEditTooltip
+Korea,47,도움말,Help
+English,47,Help,Help
+Korea,48,플레이어,Player
+English,48,Player,Player
+English,49,The deck must consist of at least 50 sheets,DeckNotice
+Korea,50,덱은 50장 이상으로 구성되야 합니다,DeckNotice

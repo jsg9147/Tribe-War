@@ -1,0 +1,25 @@
+﻿Language,Index,Content,Tag
+English,1,Time Limit,TimeLimit
+English,2,Can Summon,CanSummon
+English,3,Can Move,CanMove
+English,4,Remaining Card,RemainingCard
+English,5,Grave,Grave
+English,6,Turn End,TurnEnd
+English,7,My Turn,MyTurn
+Korea,1,남은 시간,TimeLimit
+Korea,2,소환 가능,CanSummon
+Korea,3,이동 가능,CanMove
+Korea,4,남은 카드,RemainingCard
+Korea,5,무덤,Grave
+Korea,6,턴 종료,TurnEnd
+Korea,7,내 턴,MyTurn
+English,8,Pick a target,PickTarget
+English,9,Pick a monster,PickMonster
+English,10,Select a place to move,Move
+English,11,10 seconds left,10s
+Korea,8,타겟을 선택하세요,PickTarget
+Korea,9,몬스터를 선택하세요,PickMonster
+Korea,10,이동할 장소를 선택하세요,Move
+Korea,11,10초 남았습니다,10s
+English,12,Select the base camp,BaseCamp
+Korea,12,베이스캠프를 설치하세요,BaseCamp

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 32996258ff817084cbaa6c70520d4314
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RookFrame: {fileID: 21300000, guid: 93f15ee807176e343bda59b2d34e83dc, type: 3}
+  - BishopFrame: {fileID: 21300000, guid: 0154cb9dc6d1752428048f5ad8749965, type: 3}
+  - QueenFrame: {fileID: 21300000, guid: e4fc2e29715f6814ab5658010fb9e764, type: 3}
+  - MagicFrame: {fileID: 21300000, guid: 0095fec78a51bad43a125e475afee200, type: 3}
+  - BackFrame: {fileID: 21300000, guid: 326cda2201fb6624fa0bcf0a26efa1a5, type: 3}
+  - cardFrame_Image: {instanceID: 0}
+  - classIcon_Image: {instanceID: 0}
+  - nameTMP: {instanceID: 0}
+  - cardImage: {instanceID: 0}
+  - tribeTMP: {instanceID: 0}
+  - cardTextTmp: {instanceID: 0}
+  - battlePower_TMP: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
